@@ -1,3 +1,3 @@
 # Oi 👋, me chamo Bismarck
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marckdados)](https://github.com/marckdados)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bismarck-nóbrega-pereira-9ab300194/)](https://www.linkedin.com/in/fagnerpsantos/)
+[![Github Badge](https://img.shields.io/badge/-marckdados-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marckdados)](https://github.com/marckdados)
+[![Linkedin Badge](https://img.shields.io/badge/-bismarck-blue?style=flat-square&logo=b&logoColor=white&link=https://www.linkedin.com/in/bismarcknpereira/)](https://www.linkedin.com/in/bismarcknpereira/)
