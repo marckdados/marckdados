@@ -1,3 +1,13 @@
-# Oi 👋, me chamo Bismarck
-[![Github Badge](https://img.shields.io/badge/-marckdados-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marckdados)](https://github.com/marckdados)
-[![Linkedin Badge](https://img.shields.io/badge/-bismarck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bismarcknpereira/)](https://www.linkedin.com/in/bismarcknpereira/)
+## Oi 👋, me chamo Bismarck ;)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marckdados)](https://github.com/marckdados/github-readme-stats)
+
+Sou estudante de Análise e Desenvolvimento de Sistemas , gosto de trabalhar com Front-end e sou cuidadoso com o Design.
+
+### Competências
+* HTML
+* CSS
+* Flutter
+* Python
+* JS básico
+
