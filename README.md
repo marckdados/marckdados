@@ -1,4 +1,4 @@
-## Oi 👋, me chamo Bismarck ;)
+:Oi 👋, me chamo Bismarck ;):
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marckdados)](https://github.com/marckdados/github-readme-stats)
 
