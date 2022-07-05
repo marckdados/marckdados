@@ -1,8 +1,6 @@
-### Bismarck Nóbrega
+<h3>Hello 👋</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marckdados&count_private=true&show_icons=true&theme=outrun)](https://github.com/marckdados/github-readme-stats)
-
-Oi 👋, tudo bem ? Me chamo Bismarck Nóbrega Pereira, sou estudante de Análise e Desenvolvimento de Sistemas, gosto de trabalhar com Front-end💻(mas sonho em virar Full-Stack ), e sou cuidadoso com o Design.
 
 ### Redes Sociais
   - [Linkedin](https://www.linkedin.com/in/bismarcknpereira/)
