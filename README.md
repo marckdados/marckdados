@@ -64,8 +64,10 @@
 > ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </details>
 
+</br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marckdados&count_private=true&show_icons=true&theme=outrun)](https://github.com/marckdados/github-readme-stats)
+
 
 
 
