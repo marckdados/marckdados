@@ -10,8 +10,8 @@
 </p>
 
 ## **🐉 About me:**
-* Bismarck Pereira, 21 years
-* Full Stack programmer
+* Bismarck Pereira, 22 years
+* BackEnd Developer
 
 ## **💬 My skills:**
 <details>
